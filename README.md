@@ -1,8 +1,5 @@
 # 💫 Hi 👋, I'm Priya Gupta  
-A passionate **MERN Stack Developer** from India  
-
-📧 **Email Me:** [priyagupta4245@gmail.com](mailto:priyagupta4245@gmail.com)  
-For Collaboration / Project or Anything Else 😊😊  
+A passionate **MERN Stack Developer** from India   
 
 ---
 
