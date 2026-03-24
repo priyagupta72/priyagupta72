@@ -139,8 +139,7 @@ fun_fact   : "Turns caffeine into clean, scalable code"
   </tr>
 </table>
 
-<!-- Switched from nirzak-streak-stats to demolab (more stable & widely used) -->
-<img src="https://streak-stats.demolab.com?user=priyagupta72&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=60a5fa" />
+<img src="https://streak-stats.demolab.com?user=priyagupta72&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=60a5fa&timezone=Asia%2FKolkata" />
 
 </div>
 
@@ -167,7 +166,6 @@ fun_fact   : "Turns caffeine into clean, scalable code"
 
 ---
 
-<!-- TROPHIES: removed no-bg=true — that param causes blank renders -->
 <div align="center">
 
 <svg width="700" height="60" viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg">
@@ -183,28 +181,8 @@ fun_fact   : "Turns caffeine into clean, scalable code"
   <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">TROPHIES</text>
 </svg>
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyagupta72&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-<svg width="700" height="60" viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="secGrad6" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0"/>
-      <stop offset="20%" style="stop-color:#8b5cf6;stop-opacity:1"/>
-      <stop offset="80%" style="stop-color:#ec4899;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="28" width="700" height="2" fill="url(#secGrad6)"/>
-  <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">TOP CONTRIBUTIONS</text>
-</svg>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=priyagupta72&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<!-- Using radical theme which is more reliable than tokyonight for trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=priyagupta72&theme=radical&no-frame=true&margin-w=8&row=1&column=4" />
 
 </div>
 
@@ -231,7 +209,6 @@ fun_fact   : "Turns caffeine into clean, scalable code"
 
 ---
 
-<!-- CONNECT: SVG anchor tags are sanitized by GitHub — using shields.io badge instead -->
 <div align="center">
 
 <svg width="700" height="60" viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg">
@@ -251,7 +228,6 @@ fun_fact   : "Turns caffeine into clean, scalable code"
 
 <br/><br/>
 
-<!-- Visitor counter: switched to komarev.com (most stable, no sign-in needed) -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=priyagupta72&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
