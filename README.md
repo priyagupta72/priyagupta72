@@ -26,7 +26,7 @@
 <p>
   <img src="https://img.shields.io/badge/She%2FHer-a78bfa?style=flat-square&labelColor=1e1b4b&color=7c3aed" />
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-34d399?style=flat-square&labelColor=064e3b&color=059669" />
-  <!-- <img src="https://img.shields.io/badge/Based%20in%20India-f59e0b?style=flat-square&labelColor=451a03&color=d97706" /> -->
+  <img src="https://img.shields.io/badge/Based%20in%20India-f59e0b?style=flat-square&labelColor=451a03&color=d97706" />
 </p>
 
 </div>
