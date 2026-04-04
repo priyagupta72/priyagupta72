@@ -6,7 +6,7 @@
 <br/>
 
 <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg"> 
-  <!-- <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg"> -->
+  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#a78bfa"/>
