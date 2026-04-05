@@ -5,8 +5,7 @@
 
 <br/>
 
-<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg"> 
-  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#a78bfa"/>
@@ -52,7 +51,7 @@
 
 ```yaml
 name       : Priya Gupta
-role       : MERN Stack Developer
+role       : Software Developer Engineer
 location   : India
 focus      : Scalable Web Apps + AI Integration
 learning   : Google Gemini AI · Predictive Analytics · AI Chatbots
@@ -132,10 +131,10 @@ fun_fact   : "Turns caffeine into clean, scalable code"
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=priyagupta72&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=priyagupta72&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa&text_color=c9d1d9" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyagupta72&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=priyagupta72&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
     </td>
   </tr>
 </table>
@@ -179,11 +178,91 @@ fun_fact   : "Turns caffeine into clean, scalable code"
     </linearGradient>
   </defs>
   <rect x="0" y="28" width="700" height="2" fill="url(#secGrad5)"/>
-  <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">TROPHIES</text>
+  <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">SKILLS</text>
 </svg>
 
-<!-- Using radical theme which is more reliable than tokyonight for trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=priyagupta72&theme=radical&no-frame=true&margin-w=8&row=1&column=4" />
+<!-- Replaced broken trophies with always-working skill icons -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,typescript,javascript,python,vercel,postman&theme=dark&perline=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<svg width="700" height="60" viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="secGrad6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#6366f1;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#ec4899;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="28" width="700" height="2" fill="url(#secGrad6)"/>
+  <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">PROJECTS</text>
+</svg>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">Full-stack MERN e-commerce app with auth, cart, payments & admin dashboard.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Chatbot</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+      </p>
+      <p align="center">Conversational AI chatbot powered by Google Gemini API with real-time streaming.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 Analytics Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      </p>
+      <p align="center">Real-time data analytics dashboard with charts, filters, and export features.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 Auth System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">Secure JWT-based auth with refresh tokens, role-based access & OAuth support.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Note:** Replace the `#` in demo/source links with your actual project URLs!
 
 </div>
 
@@ -204,7 +283,19 @@ fun_fact   : "Turns caffeine into clean, scalable code"
   <text x="350" y="20" text-anchor="middle" font-family="Courier New, monospace" font-size="13" fill="#94a3b8" letter-spacing="6">DEV QUOTE</text>
 </svg>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<!-- Hardcoded SVG quote — always visible, no API dependency -->
+<svg width="680" height="90" viewBox="0 0 680 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="quoteGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="90" rx="12" fill="url(#quoteGrad)" stroke="#312e81" stroke-width="1"/>
+  <text x="30" y="35" font-family="Georgia, serif" font-size="28" fill="#e879f9" opacity="0.6">"</text>
+  <text x="340" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#c4b5fd" letter-spacing="0.5">First, solve the problem. Then, write the code.</text>
+  <text x="340" y="68" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#60a5fa">— John Johnson</text>
+</svg>
 
 </div>
 
