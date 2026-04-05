@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priya%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -206,63 +206,66 @@ fun_fact   : "Turns caffeine into clean, scalable code"
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <h3 align="center">🌾 FarmAI — Smart Agriculture Assistant</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
-      <p align="center">Full-stack MERN e-commerce app with auth, cart, payments & admin dashboard.</p>
+      <p align="center">AI-powered agriculture assistant recommending crops & fertilizers using soil and climate data — <strong>92% prediction accuracy</strong>.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="https://farmai-2-m5gc.onrender.com/"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 AI Chatbot</h3>
+      <h3 align="center">📬 inbix — AI Unified Inbox</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
-      <p align="center">Conversational AI chatbot powered by Google Gemini API with real-time streaming.</p>
+      <p align="center">Unified inbox for Gmail, Instagram & Facebook DMs. AI auto-sorts 100 messages in ~15s into 6 categories & drafts tone-matched replies.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="https://inbix.onrender.com/"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 Analytics Dashboard</h3>
+      <h3 align="center">🎓 Zevora Technologies — EdTech Platform</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       </p>
-      <p align="center">Real-time data analytics dashboard with charts, filters, and export features.</p>
+      <p align="center">Full-stack education services platform with <strong>100+ AI-personalized</strong> course recommendations via Gemini AI, boosting user engagement.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="https://zevoraa.onrender.com/"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 Auth System</h3>
+      <h3 align="center">₿ CryptoTracker — Live Crypto Dashboard</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/CoinGecko_API-8DC647?style=flat-square&logoColor=white" />
       </p>
-      <p align="center">Secure JWT-based auth with refresh tokens, role-based access & OAuth support.</p>
+      <p align="center">Real-time cryptocurrency tracker displaying live prices for <strong>50+ digital assets</strong> via CoinGecko API with mobile-responsive UI.</p>
       <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
+        <a href="https://crypto-tracker-inky-nine.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-7c3aed?style=for-the-badge" /></a>
         <a href="#"><img src="https://img.shields.io/badge/Source Code-0d1117?style=for-the-badge&logo=github" /></a>
       </p>
     </td>
   </tr>
 </table>
 
-> 💡 **Note:** Replace the `#` in demo/source links with your actual project URLs!
 
 </div>
 
